@@ -1,6 +1,7 @@
 # Feed-The-Squirrel 🐿️
 A fun little Python mini-game (made with Pygame) where you try to cut a nut exactly how the squirrel wants it! 🎯
 
+---
 
 ## 🎮 How to Play
 1. The squirrel will ask for a specific percentage of the nut.
