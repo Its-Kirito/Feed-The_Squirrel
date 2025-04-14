@@ -10,6 +10,7 @@ A fun little Python mini-game (made with Pygame) where you try to cut a nut exac
 
 
 ## 📸 Screenshots
+![Game demo](gameplay_images/feed_the_squirrel)
 *(I'll Insert Images Later! )*
 
 
